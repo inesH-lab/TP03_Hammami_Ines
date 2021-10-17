@@ -1,21 +1,21 @@
 [{
-	"name": "hero Product",
-	"detail": "Lorem ipsum dolor sit amet",
-	"price": "99",
-	"hero": "OMG This just came out today!",
-	"image": "http://placehold.it/940x300/999/CCC"
+	"name": "Sea ",
+	"detail": "Avec du sel de la mer morte",
+	"price": "17.50",
+	"Commentaire": "elle exfolie en douceur"
+	
 },
 {
-	"name": "CMONPROD",
-	"detail": "Lorem ipsum dolor sit amet",
-	"price": "100",
-	"hero": "NICE!",
-	"image": "http://placehold.it/940x300/999/CCC"
+	"name": "Godess ",
+	"detail": "A l'huile de jojoba et d'argan",
+	"price": "25",
+	"Commentaire": "Je n'ai jamais eue la peau aussi douce !"
+	
 },
 {
-	"name": "Product 1",
-	"detail": "Lorem ipsum dolor sit amet",
-	"price": "99",
-	"info": "This is the latest and greatest product from Derp corp.",
-	"image": "http://placehold.it/300x300/999/CCC"
+	"name": "Cauldron",
+	"detail": "Avec du charbon et du savon noir",
+	"price": "14.50",
+	"Commentaire": "Parfait pour halloween !"
+	
 }]
