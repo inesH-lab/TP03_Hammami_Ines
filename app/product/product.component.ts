@@ -40,9 +40,7 @@ export class ProductComponent implements OnInit {
     this.Productservice.emitProduct();
     
   }
-  getWidth() : number{
-    return window.innerWidth;
-  }
+
 
 }
 
